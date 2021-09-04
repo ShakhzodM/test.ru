@@ -1,0 +1,11 @@
+.error{
+	color:red;
+}
+.success{
+	color:green;
+	list-style: none;
+}
+
+.success, .error{
+	margin-left: 1%;
+}
